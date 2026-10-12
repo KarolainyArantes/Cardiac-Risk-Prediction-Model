@@ -142,6 +142,6 @@ Karolainy de sousa arantes
 
 Data & Business Intelligence Analyst
 
-Interested in Data Analytics, Business Intelligence, Data Science, and Statistical Modeling.
+Interested in Data Science, Statistical Modeling, Data Analytics and Business Intelligence.
 
 > ⭐ If you found this project interesting, feel free to explore the notebook and follow the analysis step by step.
